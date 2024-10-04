@@ -28,7 +28,7 @@ The game window's boundaries must be defined based on your screen setup. You can
 top_left = (515, 22)  # Top-left corner
 bottom_right = (853, 690)  # Bottom-right corner
 ```
-<p align="center"> <img src="https://via.placeholder.com/400x200" alt="Game Window Boundaries" /> </p>
+<p align="center"> <img src="[https://via.placeholder.com/400x200](https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65b6a7e38e9ad2df88db2e9a_blum-home-screen-p-500.png)" alt="Game Window Boundaries" /> </p>
 Color Definitions
 Flower (Green): Detected using RGB values.
 Crystal (Blue): Defined by an exact RGB color.
