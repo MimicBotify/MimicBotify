@@ -28,7 +28,7 @@ The game window's boundaries must be defined based on your screen setup. You can
 top_left = (515, 22)  # Top-left corner
 bottom_right = (853, 690)  # Bottom-right corner
 ```
-<p align="center"> <img src="[https://via.placeholder.com/400x200](https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65b6a7e38e9ad2df88db2e9a_blum-home-screen-p-500.png)](https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65b6a7e38e9ad2df88db2e9a_blum-home-screen-p-500.png)" alt="Game Window Boundaries" /> </p>
+<p align="center"> <img src="[[https://via.placeholder.com/400x200](https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65b6a7e38e9ad2df88db2e9a_blum-home-screen-p-500.png)](https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65b6a7e38e9ad2df88db2e9a_blum-home-screen-p-500.png)](https://www.google.com/imgres?q=telegram%20blum&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D122191754378029896&imgrefurl=https%3A%2F%2Fm.facebook.com%2Fgroups%2F203633485102386%2Fposts%2F%25EF%25B8%258F-blum-is-another-big-project-after-notcoin-%25EF%25B8%258F-100-legit-telegram-bot-%25EF%25B8%258F-do-simple%2F1098551212277271%2F&docid=Hqxz8aabPUP3hM&tbnid=2K-VFzWt9-GO9M&vet=12ahUKEwiHgbil5fSIAxVk4TgGHVoiLfIQM3oECBcQAA..i&w=590&h=1280&hcb=2&itg=1&ved=2ahUKEwiHgbil5fSIAxVk4TgGHVoiLfIQM3oECBcQAA)" alt="Game Window Boundaries" /> </p>
 Color Definitions
 Flower (Green): Detected using RGB values.
 Crystal (Blue): Defined by an exact RGB color.
