@@ -21,28 +21,32 @@ To use this script, you will need to install the following Python libraries:
 
 ```bash
 pip install pynput Pillow numpy
-
+```
 Game Window Coordinates
 The game window's boundaries must be defined based on your screen setup. You can adjust these in the script:
+```bash
 top_left = (515, 22)  # Top-left corner
 bottom_right = (853, 690)  # Bottom-right corner
+```
 <p align="center"> <img src="https://via.placeholder.com/400x200" alt="Game Window Boundaries" /> </p>
 Color Definitions
 Flower (Green): Detected using RGB values.
 Crystal (Blue): Defined by an exact RGB color.
 Bomb: Detected using an HSV color range.
 You can customize these values if needed:
+
+```bash
 flower_rgb = [(63, 219, 0)]
 crystal_rgb = (130, 221, 233)
 bomb_hsv_range = [(0, 0, 71), (0, 5, 53)]
+```
 
 How to Run
 To start the bot, run the script in Python:
-
+```bash
 python main.py
-
+```
 The script will:
-
 Continuously scan for objects (crystals, flowers).
 Simulate mouse clicks on detected objects.
 Respect cooldowns to avoid repetitive actions.
@@ -50,5 +54,4 @@ Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements.
 
 <p align="center"> <em>Created with ❤️ by Tanvir</em> </p>
-```
 
