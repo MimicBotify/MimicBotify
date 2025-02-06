@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a BBA Honours student majoring in Accounting w
 Name: MD. Tanvir Alam Rabi (but you can call me Caelum)
 Field of Study: BBA Honours (Accounting)
 # Interests:
-Artificial Intelligence: Building an advanced AI assistant inspired by J.A.R.V.I.S. from Iron Man and the AI concepts in Her.
-Cybersecurity: Focusing on AI security and ethical hacking to safeguard systems.
-Automation: Developing tools to streamline processes and enhance productivity.
-Education: Creating a quiz website to simplify learning accounting journal entries.
+Artificial Intelligence: Building an advanced AI assistant inspired by J.A.R.V.I.S. from Iron Man and the AI concepts in Her.\n
+Cybersecurity: Focusing on AI security and ethical hacking to safeguard systems.\n
+Automation: Developing tools to streamline processes and enhance productivity.\n
+Education: Creating a quiz website to simplify learning accounting journal entries.\n
 # Current Projects
 Advanced AI Assistant:
 Designing an intelligent assistant for efficient task management and research that learns and evolves over time.
