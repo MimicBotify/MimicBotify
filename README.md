@@ -19,6 +19,10 @@ Quiz Website for Journal Entries:
 An interactive platform that helps students and professionals master accounting journal entries through engaging quizzes.
 
 # Skills & Tools
-Programming: JavaScript, Python, and more.
-Technologies: AI frameworks, cybersecurity protocols, web development tools.
-Soft Skills: Problem-solving, critical thinking, and continuous learning.
+<ul>
+  <li>Programming: JavaScript, Python, and more.</li>
+  <li>Technologies: AI frameworks, cybersecurity protocols, web development tools.</li>
+  <li>Soft Skills: Problem-solving, critical thinking, and continuous learning.</li>
+</ul>
+
+
