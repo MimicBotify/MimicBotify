@@ -1,4 +1,4 @@
-## Hi, I'm MD. Tanvir Alam Rabi (Caelum) 👋
+## Hi, I'm Tanvir (Caelum) 👋
 Welcome to my GitHub profile! I'm a BBA Honours student majoring in Accounting with a passion for technology. I thrive on exploring the intersections of artificial intelligence, cybersecurity, and automation to create innovative solutions.
 
 # About Me
