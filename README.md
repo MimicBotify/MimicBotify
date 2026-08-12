@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a BBA Honours student majoring in Accounting with a passion for technology. I thrive on exploring the intersections of artificial intelligence, cybersecurity, and automation to create innovative solutions.
 
 # About Me
-Name: MD. Tanvir Alam Rabi (but you can call me Caelum)
+Name: Tanvir Alam
 Field of Study: BBA Honours (Accounting)
 # Interests:
 <ul>
